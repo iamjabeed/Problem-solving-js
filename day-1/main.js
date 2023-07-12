@@ -62,7 +62,7 @@ const names = [];
 // const active = users.forEach((user) => {
 //   if (user.isActive) {
 //     console.log(user);
-//     // return user;
+//      return user;
 //   }
 // });
 // console.log(active);
